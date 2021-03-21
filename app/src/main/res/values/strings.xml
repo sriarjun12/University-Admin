@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Admin Explorer</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hello Admin</string>
+    <string name="nav_header_subtitle">Developed by Swetha C</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">States</string>
+    <string name="menu_slideshow">Package</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_places">Places</string>
+    <string name="menu_placesDetails">Details</string>
+    <string name="menu_sumary">Summary</string>
+    <string name="action_create">create</string>
+</resources>
